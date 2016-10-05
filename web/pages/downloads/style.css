@@ -1,0 +1,16 @@
+.downloads_table {
+	border: 0px;
+}
+.down a {
+	color:#2F6DB2;
+	font-weight:bold;
+	font-size: 16px;
+}
+.down_icon {
+	width: 50px;
+	vertical-align: top;
+}
+.down td {
+	padding-bottom: 16px;
+	text-align: justify;
+}

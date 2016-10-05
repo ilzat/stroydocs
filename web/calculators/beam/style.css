@@ -1,0 +1,14 @@
+.inform_text{
+  color: #2F6DB2;
+  font-weight: bold;
+}
+.blue_strong_16 {
+  color:#2F6DB2;
+  font-weight:bold;
+  font-size: 16px;
+}
+canvas {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}

@@ -1,0 +1,18 @@
+.error {
+  color: red;
+}
+#kolodec {
+  border-color: silver;
+}
+#kolodec td {
+  border-color: silver;
+  padding: 4px;
+}
+#kolodec th {
+  border-color: silver;
+}
+canvas {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}

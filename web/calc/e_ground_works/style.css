@@ -1,0 +1,18 @@
+.answer {
+  font-weight: bold;
+  color: #2F6DB2;
+}
+.contents {
+  line-height: 24px;
+  margin-bottom: 50px;
+}
+.ground_row {
+  margin-top: 0px;
+}
+#gr_table td {
+  border: 4px groove silver;
+  text-align: center;
+}
+#gr_table {
+  margin-bottom: 15px;
+}

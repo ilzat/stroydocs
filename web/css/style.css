@@ -1,0 +1,25 @@
+.sidebar-menu a {
+  color:  white!important;
+}
+.sidebar-menu .menu_calc, .sidebar-menu .menu_reference {
+  color:  #CFCFCF!important;
+  padding-top: 4px;
+  padding-left: 5px;
+}
+
+.blue {
+	color: #2F6DB2;
+}
+.blue_strong {
+	color: #2F6DB2;
+	font-weight: bold;
+}
+.blue_list {
+	color: #2F6DB2;
+	font-weight: bold;
+	line-height: 25px;
+}
+.blue_list a {
+	color: #2F6DB2;
+	font-weight: bold;
+}

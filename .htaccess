@@ -1,0 +1,46 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|img|robots\.txt|css|js|ckeditor|fonts|plugins|lte|files|web)
+RewriteRule ^(.*)$ /index.php/$1 [L]
+AddDefaultCharset utf-8
+
+
+Redirect 301 /engineering http://stroydocs.com
+
+Redirect 301 /e_balka_met/step0 http://stroydocs.com/beam/step_1
+Redirect 301 /e_balka_met http://stroydocs.com/beam
+Redirect 301 /e_veter http://stroydocs.com/info/e_veter
+Redirect 301 /e_ground_works http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/1 http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/2 http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/3 http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/4 http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/5 http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/6 http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/7 http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/8 http://stroydocs.com/calc/e_ground_works
+Redirect 301 /e_ground_works/9 http://stroydocs.com/calc/e_ground_works
+
+Redirect 301 /d_app/calc http://stroydocs.com/downloads/app/converter
+Redirect 301 /d_app/converter http://stroydocs.com/downloads/app/engineering
+Redirect 301 /d_app/engineering http://stroydocs.com/downloads/app/autocad
+Redirect 301 /d_app/autocad http://stroydocs.com/downloads/app/autocad
+Redirect 301 /d_app/windows http://stroydocs.com/downloads/app/windows
+Redirect 301 /d_app/other http://stroydocs.com/downloads/app/other
+Redirect 301 /d_normdoc/snip http://stroydocs.com/downloads/normdoc/snip
+Redirect 301 /d_normdoc/gost http://stroydocs.com/downloads/normdoc/gost
+Redirect 301 /d_serii/metall http://stroydocs.com/downloads/serii/metall
+Redirect 301 /d_serii/wood http://stroydocs.com/downloads/serii/wood
+Redirect 301 /d_serii/beton http://stroydocs.com/downloads/serii/beton
+Redirect 301 /d_liter/metall http://stroydocs.com/downloads/liter/metall
+Redirect 301 /d_itd_books http://stroydocs.com/info/work_book
+Redirect 301 /d_sert/channel http://stroydocs.com/certificates/metall/channel
+Redirect 301 /d_sert/angle http://stroydocs.com/certificates/metall/angle
+
+Redirect 301 /polling http://stroydocs.com/pages/polls
+Redirect 301 /news  http://stroydocs.com/pages/news
+Redirect 301 /d_app http://stroydocs.com/downloads/app
+Redirect 301 /d_normdoc http://stroydocs.com/downloads/normdoc
+Redirect 301 /d_serii http://stroydocs.com/downloads/serii
+Redirect 301 /d_liter http://stroydocs.com/downloads/liter
+Redirect 301 /d_itd http://stroydocs.com/info/work_book
+Redirect 301 /d_sert http://stroydocs.com/downloads/app/calc

@@ -1,0 +1,11 @@
+.box-body select {
+	font-weight: bold;
+	color: black;
+}
+.box-body select,  .box-body input {
+	color: black;
+}
+
+.spec, .spec tr, .spec td {
+	border: 1px solid silver!important;
+}

@@ -1,0 +1,12 @@
+.certificates_table {
+	border: 0px;
+}
+.certificates {
+	width: 100%;
+	line-height: 16px;
+}
+.certificates td {
+	border: 1px solid #D7D7D7!important;
+	text-align: center;
+	padding: 3px 3px 3px 3px;
+}

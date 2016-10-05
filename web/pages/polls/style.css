@@ -1,0 +1,14 @@
+#pollcontainer{
+	margin-left: 10px;
+}
+#loader{ display:none; text-align:center;}
+.option{ margin:5px 0; }
+
+.bar_2{ height:10px; background:#3399cc; }
+.yourvote{ background:#113399; }
+#desc {
+	text-align: justify;
+}
+.radio {
+	margin-bottom: 15px!important;
+}

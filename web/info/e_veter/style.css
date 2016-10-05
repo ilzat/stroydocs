@@ -1,0 +1,45 @@
+#veter_jan {
+    width: 280px!important;
+    float: left;
+}
+#veter_jul {
+    width: 280px!important;
+    float: left;
+}
+#veter_jan_jul {
+    width: 280px!important;
+    float: left;
+}
+.veter_header {
+    line-height: 16px;
+    font-weight: bold;
+    font-size: 14px;
+}
+#datatable_filter label {
+    font-weight: bold!important;
+    color: red;
+}
+#datatable_filter input {
+    background-color: #D7D7D7;
+    border: 1px solid red;
+}
+.veter_table {
+	border: 0px;
+}
+.veter_table {
+	width: 100%;
+	line-height: 16px;
+}
+.veter_table td {
+	border: 2px solid #C8C8C8!important;
+	text-align: center;
+	padding: 3px 3px 3px 3px;
+	font-weight: bold;
+}
+.heat {
+	background-color: #F8F7C0;
+}
+.cold {
+	background-color: #DEF3F8;
+	
+}

@@ -1,0 +1,21 @@
+#converter_table td {
+	border: 1px solid #D7D7D7!important;
+	font-weight: bold;
+}
+#converter_table th {
+	border-bottom: 1px solid #D7D7D7!important;
+}
+#converter_table_2 td {
+	border: 0px;
+	font-weight: bold;
+}
+#converter_table_2 th {
+	border-bottom: 2px solid #D7D7D7!important;
+}
+#converter_table_2 select {
+	padding: 6px 0px !important;
+}
+.margin_none {
+	font-size: 26px;
+	padding: 7px 0px 0px 0px !important;
+}
